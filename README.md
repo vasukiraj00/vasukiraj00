@@ -40,7 +40,7 @@ I am constantly expanding my skill set and currently exploring:
 
 ## 📫 Contact Me
 Feel free to reach out to me on:
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **LinkedIn:** [www.linkedin.com/in/vasuki-rajendran-b64b6616b](#)
 - **Email:** vasukiraj01@gmail.com
 
 Thank you for visiting my portfolio! Let's connect and collaborate on exciting data projects.
