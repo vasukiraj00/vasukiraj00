@@ -30,8 +30,8 @@ Skills: Python, Pandas, Seaborn, Matplotlib, Data Cleaning, EDA
 
 Key Insights:
 
-Winter months experienced the most delays, primarily due to weather.
-Carrier X showed the highest delays, prompting further investigation.
+-Winter months experienced the most delays, primarily due to weather.
+-Carrier X showed the highest delays, prompting further investigation.
 
 ## 🌱 Currently Learning
 I am constantly expanding my skill set and currently exploring:
