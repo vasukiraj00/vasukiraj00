@@ -2,7 +2,7 @@
 **QA Automation Engineer | Python | Selenium | API Testing | AWS Certified**  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/vasuki-rajendran-b64b6616b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:vasukiraj01@gmail.com">
