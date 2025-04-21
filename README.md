@@ -37,17 +37,22 @@ def test_user_endpoint(user_id, expected_status, expected_name):
 **🛠️ Tech Stack**
 **API Testing**
 <p> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Newman-7E57C2?logo=postman&logoColor=white" alt="Newman"> <img src="https://img.shields.io/badge/Python_Requests-3776AB?logo=python&logoColor=white" alt="Python Requests"> </p>
+
 **Automation**
 <p> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" alt="Pytest"> <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium"> </p>
+
 **DevOps**
 <p> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"> </p>
+
 **📜 Certifications**
 <p> <a href="https://www.credly.com"> <img src="https://img.shields.io/badge/AWS_Certified_Developer-FF9900?logo=amazonaws&logoColor=white" alt="AWS Certified"> </a> <a href="https://mphasis.com"> <img src="https://img.shields.io/badge/Mphasis_AI_Essentials-005571?logo=ai&logoColor=white" alt="AI Essentials"> </a> </p>
+
 **🎓 Education**
 B.E. Electronics and Instrumentation Engineering
 🏛️ Bannari Amman Institute of Technology | 🎯 CGPA: 8.86/10
 
 **📬 Let's Connect!**
-+ Open to: API testing projects | Tech collaborations | Mentoring
++ Open to: Testing projects | Tech collaborations | Mentoring
 <p align="center"> <a href="mailto:vasukiraj01@gmail.com"> <img src="https://img.shields.io/badge/Email_Me-vasukiraj01@gmail.com-D14836?style=flat&logo=gmail" alt="Email"> </a> <a href="tel:+918903675422"> <img src="https://img.shields.io/badge/Call_Me-%2B918903675422-25D366?style=flat&logo=whatsapp" alt="Phone"> </a> <a href="www.linkedin.com/in/vasuki-rajendran-b64b6616b"> <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"> </a> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"> </p>
+
 **"First solve the problem. Then automate the solution." - QA Engineer's Motto**
