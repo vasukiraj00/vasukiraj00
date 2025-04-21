@@ -1,45 +1,72 @@
-# Welcome to My Data Analysis Portfolio!
+# Vasuki R 👩‍💻  
+**QA Automation Engineer | Python | Selenium | API Testing | AWS Certified**
 
-## 👋 About Me
-Hi there! I'm [Vasuki P R], a passionate **Data Analyst** with a strong background in **Software Engineering**. My expertise lies in leveraging data to uncover insights, drive decision-making, and solve complex problems. I enjoy working with a variety of tools and technologies to analyze data and create impactful visualizations.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:vasukiraj01@gmail.com)
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange?style=flat&logo=amazon-aws)](https://www.credly.com/badges/your-aws-badge-id)
 
-## 🛠️ Skills
-Here are some of the key skills and technologies I bring to the table:
+## 🚀 About Me
+QA Automation Specialist with **3+ years** of experience building robust test frameworks. Passionate about:
+- ⚡ Automating everything from web apps to microservices
+- 🐛 Hunting bugs before they reach production
+- ☁️ Cloud-native testing solutions (AWS Certified)
 
-### Data Analysis
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **SQL:** Querying, database management, data manipulation
-- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
-- **Statistical Analysis:** Descriptive statistics, inferential statistics, hypothesis testing
+**Current Impact @ Mphasis:**
+- Reduced regression testing time by **80%** with Python-Selenium-Pytest
+- Prevented **$500K+** potential losses by catching critical defects
+- Automated **200+ API validations** with 99% reliability
 
-### Software Engineering
-- **Programming Languages:** Python, Java
-- **Version Control:** Git, GitHub
-- **Testing:** Unit testing, integration testing, automated testing
+## 🛠️ Tech Stack
+**Automation:**  
+![Python](https://img.shields.io/badge/Python-Expert-yellowgreen?logo=python)
+![Selenium](https://img.shields.io/badge/Selenium-Web_Automation-orange?logo=selenium)
+![Pytest](https://img.shields.io/badge/Pytest-Test_Framework-blueviolet)
 
+**API Testing:**  
+![Postman](https://img.shields.io/badge/Postman-API_Testing-ff69b4?logo=postman)
+![Newman](https://img.shields.io/badge/Newman-CLI_Runner-gray?logo=postman)
+![Requests](https://img.shields.io/badge/Python_Requests-HTTP_Library-blue)
 
-## 📚 Projects
-Here are some of the projects that showcase my skills:
+**CI/CD & DevOps:**  
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-black?logo=github)
+![AWS](https://img.shields.io/badge/AWS-EC2/S3/Lambda-orange?logo=amazon-aws)
 
-### Project 1:
-Title: Airline Arrival Delays Analysis
-Description:
-Analyzed U.S. domestic flight delays to uncover patterns and trends, using Python for data cleaning, exploration, and visualization. Identified key factors contributing to delays and suggested actionable insights for improvement.
+## 🏆 Projects
+### 1. Web Automation Framework
+[![GitHub](https://img.shields.io/badge/Code-Python_Selenium_Pytest-blue?logo=github)](your-repo-link)
+- Page Object Model (POM) architecture
+- Multi-browser support via WebDriver Manager
+- Allure Reports integration
 
-Skills: Python, Pandas, Seaborn, Matplotlib, Data Cleaning, EDA
+```python
+# Sample test snippet
+def test_login():
+    page = LoginPage(driver)
+    page.enter_credentials("user", "pass")
+    assert page.is_logged_in()
 
-### Key Insights:
-- Winter months experienced the most delays, primarily due to weather.
-- Carrier X showed the highest delays, prompting further investigation.
+2. API Testing Suite
+Postman
 
-## 🌱 Currently Learning
-I am constantly expanding my skill set and currently exploring:
-- Advanced machine learning techniques
-- Cloud data engineering with AWS and Azure
+200+ automated validations
 
-## 📫 Contact Me
-Feel free to reach out to me on:
-- **LinkedIn:** [www.linkedin.com/in/vasuki-rajendran-b64b6616b](#)
-- **Email:** vasukiraj01@gmail.com
+Data-driven testing with CSV/JSON
 
-Thank you for visiting my portfolio! Let's connect and collaborate on exciting data projects.
+CI/CD integration via Jenkins
+
+📜 Certifications
+AWS Certified Developer – Associate (2023)
+
+Artificial Intelligence Essentials (Mphasis, 2022)
+
+📚 Education
+B.E. Electronics and Instrumentation Engineering
+Bannari Amman Institute of Technology | CGPA: 8.86/10
+
+📬 Let's Collaborate!
+💌 Email: vasukiraj01@gmail.com
+
+📞 Phone: +91 8903675422
+
+🌐 LinkedIn: www.linkedin.com/in/vasuki-rajendran-b64b6616b
