@@ -40,13 +40,14 @@ QA Automation Specialist with **3+ years** of experience building robust test fr
 - Allure Reports integration
 
 ```python
-# Sample test snippet
+#Sample test snippet
 def test_login():
     page = LoginPage(driver)
     page.enter_credentials("user", "pass")
     assert page.is_logged_in()
+```
 
-2. API Testing Suite
+API Testing Suite
 Postman
 
 200+ automated validations
