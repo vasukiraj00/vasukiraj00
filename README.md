@@ -1,4 +1,4 @@
-# Vasuki R  
+# Vasuki P R  
 **QA Automation Engineer | Python | Selenium | API Testing | AWS Certified**  
 
 <p align="center">
